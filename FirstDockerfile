@@ -1,3 +1,3 @@
 FROM tomcat:8-jre8
 MAINTAINER "Mallik"
-ADD Helloworld.war /usr/local/tomcat/webapps/
+ADD helloworld.war /usr/local/tomcat/webapps/
